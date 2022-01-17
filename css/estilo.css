@@ -1,0 +1,128 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    
+
+header{
+    text-align: center;
+    position: sticky;
+
+}
+
+
+nav{
+    text-align: center;
+    padding-left: 20%;
+    display: flex;
+    color: black;
+    background-color: white;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    border-top: 1px solid black ;
+    border-bottom: 1px solid black  ;
+    margin-bottom: 2%;
+    
+}
+
+aside{
+    text-align: center;
+    width: 15%;
+    margin-left: 5%;
+    float: left;
+}
+
+
+
+
+
+section{
+    width: 75%;
+    margin-left: 22%;
+}
+
+
+
+footer{
+    padding-right:35%  ;
+    padding-left: 25%;
+    display: flex;
+    color: white;
+    background-color: #1d1d1d;  
+    width: 40%;
+}
+
+
+
+
+footer p, nav p{
+    padding-right: 7%;
+    padding-left: 7%;
+    
+}
+
+.linea{
+    border-top: 1px solid #7ABA96;
+    height: 2px;
+    padding: 0;
+    margin: 2px auto 2px auto;
+}
+
+.lineacolor{
+    border-top: 1px solid #7ABA96;
+    height: 2px;
+    padding: 0;
+    margin: 2px auto 2px auto;
+}
+
+
+.oferta{
+    background-color: rgb(201, 201, 201);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 5px;
+    
+}
+
+.verd{
+    margin-top: 0%;
+    background-color: #7ABA96;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px;
+}
+
+.grey, .nonecenter{
+    color: rgb(107, 107, 107);
+    margin-bottom: auto;
+    text-align: left;
+    padding-left: 2px;
+}
+
+.nonecenter{
+    margin-bottom: 4%;
+}
+
+
+
+a:hover, a:hover.white{
+    color: #7ABA96;
+}
+
+a:hover.brown{
+    color: #8A8070;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.petit{
+    font-size: 14px;
+}
+
+
+a.white{
+    color: white;
+    text-decoration: none;
+}

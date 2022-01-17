@@ -1,0 +1,35 @@
+
+section{
+    /*width: 75%;
+    margin-left: 22%;*/
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+section p{
+    margin: 5px;
+}
+
+article{
+    margin: 2% auto 2% auto;
+    width: 45%;
+    text-align: center;
+}
+
+
+
+
+/* 
+FORMA QUE LO HIZE AL PRINCIPIO NOSE SI ES VALIDO TAMBIEN
+.pasta, .mijo{
+    float: left;
+    width: 45%;
+    text-align: center;
+}
+.galletas, .calabacines{
+    float: right;
+    width: 45%;
+    text-align: center;
+}
+*/
+

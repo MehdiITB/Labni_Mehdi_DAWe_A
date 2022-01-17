@@ -1,0 +1,59 @@
+
+
+section{
+    margin-bottom: 1%;
+    background-color: rgb(201, 201, 201);
+    border-radius: 10px;  
+    padding-top: 1%;
+}
+
+
+
+.subtitulo{
+    margin-bottom: 2%;
+    font-size: 17px;
+}
+
+h2, .subtitulo{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+article{
+    margin: 2%
+}
+
+.receta, .receta p{
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.left{
+    float: left;
+    
+}
+h3, .left{
+    margin-left: 5%;
+}
+
+.right{
+    float: right;
+    margin-right: 5%;
+}
+.lineafinal{
+    border-top: 1px solid #7ABA96;
+    height: 2px;
+    padding: 0;
+    margin: 17% auto 2px auto;
+
+}
+i{
+    font-size: 17px;
+}
+
+.lastarticle{
+    background-color: rgb(201, 201, 201);
+    margin-bottom: 5%;
+}
+
+
